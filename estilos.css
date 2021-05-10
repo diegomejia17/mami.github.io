@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 body{
     background: #d7c6f6;
 
@@ -9,14 +11,14 @@ body{
 .h1{
 
   color: #b16363;
-  font-family: 'Lobster', cursive;
+  font-family: 'Itim', cursive;
   font-size: 24px;
 }
 .txt{
   width: 600px;
   height: auto;
 
-  font-family: 'Lobster', cursive;
+  font-family: 'Itim', cursive;
   font-size: 25px;
 }
 
@@ -65,7 +67,7 @@ body{
     float: right;
 }
 .txt {
-    font-family: 'Lobster', cursive;
+    font-family: 'Itim', cursive;
     color:  #b16363;
     text-decoration :none;
     padding: 40px 0px 40px 0px;
@@ -78,7 +80,7 @@ body{
 }
 .parrafo h3
 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Itim', cursive;
     color:  #b16363;
     text-decoration :none;
   
